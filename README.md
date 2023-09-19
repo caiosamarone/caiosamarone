@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Mendes</h1>
 <h3 align="center">A React front-end developer from Brazil</h3>
-<img align="right" alt="coding" width="400" src="[https://i.imgur.com/O3Bxs16.gif](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiosamarone&label=Profile%20views&color=0e75b6&style=flat" alt="caiosamarone" /> </p>
 
