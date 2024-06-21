@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Mendes</h1>
-<h3 align="center">A React front-end developer from Brazil</h3>
+<h3 align="center">A JavaScript Full Stack developer from Brazil</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiosamarone&label=Profile%20views&color=0e75b6&style=flat" alt="caiosamarone" /> </p>
