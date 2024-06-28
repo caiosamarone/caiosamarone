@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiosamarone&show_icons=true&locale=en" alt="caiosamarone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiosamarone&" alt="caiosamarone" /></p>
+
+<a href="https://app.rocketseat.com.br/me/caiosamarone10-1567116188"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=caiosamarone10-1567116188&type=card" width="280" alt="Caio Henrique Samarone Pimentel de Melo Mendes's Rocket ID"/></a>
